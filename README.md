@@ -1,4 +1,4 @@
 # gitdemo
 to learn git
 
-I am just learning git.
+I am just trying learning git.
